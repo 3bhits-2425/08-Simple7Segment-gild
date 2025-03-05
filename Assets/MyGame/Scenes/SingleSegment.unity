@@ -550,8 +550,16 @@ PrefabInstance:
       value: -0.002
       objectReference: {fileID: 0}
     - target: {fileID: 1629451359523592227, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
+      propertyPath: m_Name
+      value: Segment B
+      objectReference: {fileID: 0}
+    - target: {fileID: 1629451359523592227, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_TagString
       value: Num6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1993369672581445042, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
+      propertyPath: m_Name
+      value: Segment BL
       objectReference: {fileID: 0}
     - target: {fileID: 1993369672581445042, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_TagString
@@ -559,11 +567,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2154195945408137718, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_Name
-      value: Cube
+      value: 7Segment
       objectReference: {fileID: 0}
     - target: {fileID: 2154195945408137718, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_TagString
       value: Par1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2306924495508210050, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
+      propertyPath: m_Name
+      value: Segment TR
       objectReference: {fileID: 0}
     - target: {fileID: 2306924495508210050, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_TagString
@@ -571,15 +583,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3127351274713513215, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_Name
-      value: Cube (0)
+      value: Segment TL
       objectReference: {fileID: 0}
     - target: {fileID: 3127351274713513215, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_TagString
       value: Num1
       objectReference: {fileID: 0}
     - target: {fileID: 3758639790213259166, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
+      propertyPath: m_Name
+      value: Segment BR
+      objectReference: {fileID: 0}
+    - target: {fileID: 3758639790213259166, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_TagString
       value: Num3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3991750059261904949, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
+      propertyPath: m_Name
+      value: Segment M
       objectReference: {fileID: 0}
     - target: {fileID: 3991750059261904949, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_TagString
@@ -712,6 +732,10 @@ PrefabInstance:
     - target: {fileID: 8272170932803190677, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 8822905825881350766, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
+      propertyPath: m_Name
+      value: Segment T
       objectReference: {fileID: 0}
     - target: {fileID: 8822905825881350766, guid: a0e89875d224f44d198fc2d8066c6bd5, type: 3}
       propertyPath: m_TagString
